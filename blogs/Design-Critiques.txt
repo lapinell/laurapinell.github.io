@@ -1,0 +1,24 @@
+January 18, 2018
+
+Setting My Design Critique Properties & Values
+
+Can you tell I've been neck-deep in javascript? 
+
+So to increase my awareness of the worlds web design, branding and uix, I came up with idea of doing a weekly critique based on Awwwards winners.
+
+Clearly they won for a reason and so I want to give judging a go, then compare their "notes" with mine.
+
+But first I have to define what my design values (and properties) are.
+
+Persona: Can I pinpoint the persona of their target audience? If I can't then 0, if it's really easy to come up with then 10. This is also what the other properties will be based off of.
+
+Usability: this is huge for me. Websites lose users so fast because the usability gives such a negative experience. How hard is it to search for what I'm looking for?
+
+Aesthetics: How pleasant to the eye is this website to the persona?
+
+Innovative Design: How innovative is the front-end design - visually speaking?
+
+Cleanly Code: How clean is the final code and are their any errors in the console?
+
+
+
