@@ -1,0 +1,602 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?aid style="50" type="snippet" readerVersion="6.0" featureSet="513" product="13.0(207)" ?>
+<?aid SnippetType="InCopyInterchange"?>
+<Document DOMVersion="13.0" Self="d">
+	<Color Self="Color/Black" Model="Process" Space="CMYK" ColorValue="0 0 0 100" ColorOverride="Specialblack" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Black" ColorEditable="false" ColorRemovable="false" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u18ColorGroupSwatch3" />
+	<Color Self="Color/C=0 M=0 Y=100 K=0" Model="Process" Space="CMYK" ColorValue="0 0 100 0" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="C=0 M=0 Y=100 K=0" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u18ColorGroupSwatch6" />
+	<Color Self="Color/C=0 M=100 Y=0 K=0" Model="Process" Space="CMYK" ColorValue="0 100 0 0" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="C=0 M=100 Y=0 K=0" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u18ColorGroupSwatch5" />
+	<Color Self="Color/C=100 M=0 Y=0 K=0" Model="Process" Space="CMYK" ColorValue="100 0 0 0" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="C=100 M=0 Y=0 K=0" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u18ColorGroupSwatch4" />
+	<Color Self="Color/C=100 M=90 Y=10 K=0" Model="Process" Space="CMYK" ColorValue="100 90 10 0" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="C=100 M=90 Y=10 K=0" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u18ColorGroupSwatch9" />
+	<Color Self="Color/C=15 M=100 Y=100 K=0" Model="Process" Space="CMYK" ColorValue="15 100 100 0" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="C=15 M=100 Y=100 K=0" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u18ColorGroupSwatch7" />
+	<Color Self="Color/C=75 M=5 Y=100 K=0" Model="Process" Space="CMYK" ColorValue="75 5 100 0" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="C=75 M=5 Y=100 K=0" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u18ColorGroupSwatch8" />
+	<Color Self="Color/Cyan" Model="Process" Space="CMYK" ColorValue="100 0 0 0" ColorOverride="Hiddenreserved" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Cyan" ColorEditable="false" ColorRemovable="false" Visible="false" SwatchCreatorID="7937" SwatchColorGroupReference="n" />
+	<Color Self="Color/Magenta" Model="Process" Space="CMYK" ColorValue="0 100 0 0" ColorOverride="Hiddenreserved" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Magenta" ColorEditable="false" ColorRemovable="false" Visible="false" SwatchCreatorID="7937" SwatchColorGroupReference="n" />
+	<Color Self="Color/Paper" Model="Process" Space="CMYK" ColorValue="0 0 0 0" ColorOverride="Specialpaper" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Paper" ColorEditable="true" ColorRemovable="false" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u18ColorGroupSwatch2" />
+	<Color Self="Color/Registration" Model="Registration" Space="CMYK" ColorValue="100 100 100 100" ColorOverride="Specialregistration" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Registration" ColorEditable="false" ColorRemovable="false" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u18ColorGroupSwatch1" />
+	<Color Self="Color/Yellow" Model="Process" Space="CMYK" ColorValue="0 0 100 0" ColorOverride="Hiddenreserved" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Yellow" ColorEditable="false" ColorRemovable="false" Visible="false" SwatchCreatorID="7937" SwatchColorGroupReference="n" />
+	<Ink Self="Ink/$ID/Process Cyan" Name="$ID/Process Cyan" Angle="71.5651" ConvertToProcess="false" Frequency="63.2456" NeutralDensity="0.61" PrintInk="true" TrapOrder="1" InkType="Normal" />
+	<Ink Self="Ink/$ID/Process Magenta" Name="$ID/Process Magenta" Angle="18.4349" ConvertToProcess="false" Frequency="63.2456" NeutralDensity="0.76" PrintInk="true" TrapOrder="2" InkType="Normal" />
+	<Ink Self="Ink/$ID/Process Yellow" Name="$ID/Process Yellow" Angle="0" ConvertToProcess="false" Frequency="66.6667" NeutralDensity="0.16" PrintInk="true" TrapOrder="3" InkType="Normal" />
+	<Ink Self="Ink/$ID/Process Black" Name="$ID/Process Black" Angle="45" ConvertToProcess="false" Frequency="70.7107" NeutralDensity="1.7" PrintInk="true" TrapOrder="4" InkType="Normal" />
+	<Swatch Self="Swatch/None" Name="None" ColorEditable="false" ColorRemovable="false" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u18ColorGroupSwatch0" />
+	<StrokeStyle Self="StrokeStyle/$ID/Solid" StrokeStyleType="$ID/" Name="$ID/Solid" />
+	<FontFamily Self="di3f" Name="Minion Pro">
+		<Font Self="di3fFontnMinion Pro Regular" FontFamily="Minion Pro" Name="Minion Pro Regular" PostScriptName="MinionPro-Regular" Status="Installed" FontStyleName="Regular" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro" FullNameNative="Minion Pro" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 2.115;PS 2.000;hotconv 1.0.78;makeotf.lib2.5.61930" TypekitID="TkD-6817-9d7256bdae0175b7de0b3b2b9a1d4be7ad537ca8" />
+	</FontFamily>
+	<FontFamily Self="di97" Name="Myriad Pro">
+		<Font Self="di97FontnMyriad Pro Bold Condensed" FontFamily="Myriad Pro" Name="Myriad Pro Bold Condensed" PostScriptName="MyriadPro-BoldCond" Status="Installed" FontStyleName="Bold Condensed" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Bold Condensed" FullNameNative="Myriad Pro Bold Condensed" FontStyleNameNative="Bold Condensed" PlatformName="$ID/" Version="Version 2.115;PS 2.000;hotconv 1.0.81;makeotf.lib2.5.63406" TypekitID="TkD-6808-aa5bb201225610d5d00d8b0c3e2a8ebd44543554" />
+		<Font Self="di97FontnMyriad Pro Regular" FontFamily="Myriad Pro" Name="Myriad Pro Regular" PostScriptName="MyriadPro-Regular" Status="Installed" FontStyleName="Regular" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro" FullNameNative="Myriad Pro" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 2.106;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.58329" TypekitID="$ID/" />
+		<Font Self="di97FontnMyriad Pro Italic" FontFamily="Myriad Pro" Name="Myriad Pro Italic" PostScriptName="MyriadPro-It" Status="Installed" FontStyleName="Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Italic" FullNameNative="Myriad Pro Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 2.106;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.58329" TypekitID="$ID/" />
+		<Font Self="di97FontnMyriad Pro Bold" FontFamily="Myriad Pro" Name="Myriad Pro Bold" PostScriptName="MyriadPro-Bold" Status="Installed" FontStyleName="Bold" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Bold" FullNameNative="Myriad Pro Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 2.106;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.58329" TypekitID="$ID/" />
+		<Font Self="di97FontnMyriad Pro Bold Italic" FontFamily="Myriad Pro" Name="Myriad Pro Bold Italic" PostScriptName="MyriadPro-BoldIt" Status="Installed" FontStyleName="Bold Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Bold Italic" FullNameNative="Myriad Pro Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version 2.106;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.58329" TypekitID="$ID/" />
+	</FontFamily>
+	<FontFamily Self="dia4" Name="Kozuka Mincho Pr6N">
+		<Font Self="dia4FontnKozuka Mincho Pr6N R" FontFamily="Kozuka Mincho Pr6N" Name="Kozuka Mincho Pr6N R" PostScriptName="KozMinPr6N-Regular" Status="Installed" FontStyleName="R" FontType="OpenTypeCID" WritingScript="1" FullName="Kozuka Mincho Pr6N R" FullNameNative="小塚明朝 Pr6N R" FontStyleNameNative="R" PlatformName="$ID/" Version="Version 6.017;PS 6.004;hotconv 1.0.70;makeotf.lib2.5.5900" TypekitID="$ID/" />
+	</FontFamily>
+	<FontFamily Self="dif9" Name="Arial">
+		<Font Self="dif9FontnArial Narrow" FontFamily="Arial" Name="Arial Narrow" PostScriptName="ArialNarrow" Status="Installed" FontStyleName="Narrow" FontType="OpenTypeTT" WritingScript="0" FullName="Arial Narrow" FullNameNative="Arial Narrow" FontStyleNameNative="Narrow" PlatformName="$ID/" Version="Version 2.40" TypekitID="$ID/" />
+		<Font Self="dif9FontnArial Narrow Italic" FontFamily="Arial" Name="Arial Narrow Italic" PostScriptName="ArialNarrow-Italic" Status="Installed" FontStyleName="Narrow Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Arial Narrow Italic" FullNameNative="Arial Narrow Italic" FontStyleNameNative="Narrow Italic" PlatformName="$ID/" Version="Version 2.40" TypekitID="$ID/" />
+		<Font Self="dif9FontnArial Narrow Bold" FontFamily="Arial" Name="Arial Narrow Bold" PostScriptName="ArialNarrow-Bold" Status="Installed" FontStyleName="Narrow Bold" FontType="OpenTypeTT" WritingScript="0" FullName="Arial Narrow Bold" FullNameNative="Arial Narrow Bold" FontStyleNameNative="Narrow Bold" PlatformName="$ID/" Version="Version 2.40" TypekitID="$ID/" />
+		<Font Self="dif9FontnArial Narrow Bold Italic" FontFamily="Arial" Name="Arial Narrow Bold Italic" PostScriptName="ArialNarrow-BoldItalic" Status="Installed" FontStyleName="Narrow Bold Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Arial Narrow Bold Italic" FullNameNative="Arial Narrow Bold Italic" FontStyleNameNative="Narrow Bold Italic" PlatformName="$ID/" Version="Version 2.40" TypekitID="$ID/" />
+		<Font Self="dif9FontnArial Regular" FontFamily="Arial" Name="Arial Regular" PostScriptName="ArialMT" Status="Installed" FontStyleName="Regular" FontType="OpenTypeTT" WritingScript="0" FullName="Arial" FullNameNative="Arial" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 6.98" TypekitID="$ID/" />
+		<Font Self="dif9FontnArial Italic" FontFamily="Arial" Name="Arial Italic" PostScriptName="Arial-ItalicMT" Status="Installed" FontStyleName="Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Arial Italic" FullNameNative="Arial Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 6.98" TypekitID="$ID/" />
+		<Font Self="dif9FontnArial Bold" FontFamily="Arial" Name="Arial Bold" PostScriptName="Arial-BoldMT" Status="Installed" FontStyleName="Bold" FontType="OpenTypeTT" WritingScript="0" FullName="Arial Bold" FullNameNative="Arial Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 6.98" TypekitID="$ID/" />
+		<Font Self="dif9FontnArial Bold Italic" FontFamily="Arial" Name="Arial Bold Italic" PostScriptName="Arial-BoldItalicMT" Status="Installed" FontStyleName="Bold Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Arial Bold Italic" FullNameNative="Arial Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version 6.98" TypekitID="$ID/" />
+		<Font Self="dif9FontnArial Black" FontFamily="Arial" Name="Arial Black" PostScriptName="Arial-Black" Status="Installed" FontStyleName="Black" FontType="OpenTypeTT" WritingScript="0" FullName="Arial Black" FullNameNative="Arial Black" FontStyleNameNative="Black" PlatformName="$ID/" Version="Version 5.22" TypekitID="$ID/" />
+	</FontFamily>
+	<CompositeFont Self="CompositeFont/$ID/[No composite font]" Name="$ID/[No composite font]">
+		<CompositeFontEntry Self="ua3" Name="$ID/Kanji" FontStyle="$ID/R" RelativeSize="100" HorizontalScale="100" VerticalScale="100" Locked="true" ScaleOption="true" BaselineShift="0">
+			<Properties>
+				<AppliedFont type="string">Kozuka Mincho Pr6N</AppliedFont>
+			</Properties>
+		</CompositeFontEntry>
+		<CompositeFontEntry Self="ua5" Name="$ID/Kana" FontStyle="$ID/R" RelativeSize="100" HorizontalScale="100" VerticalScale="100" CustomCharacters="ぁあぃいぅうぇえぉおかがきぎくぐけげこごさざしじすずせぜそぞただちぢっつづてでとどなにぬねのはばぱひびぴふぶぷへべぺほぼぽまみむめもゃやゅゆょよらりるれろゎわゐゑをんゔゕゖゝゞァアィイゥウェエォオカガキギクグケゲコゴサザシジスズセゼソゾタダチヂッツヅテデトドナニヌネノハバパヒビピフブプヘベペホボポマミムメモャヤュユョヨラリルレロヮワヰヱヲンヴヵヶヷヸヹヺーヽヾ" Locked="true" ScaleOption="true" BaselineShift="0">
+			<Properties>
+				<AppliedFont type="string">Kozuka Mincho Pr6N</AppliedFont>
+			</Properties>
+		</CompositeFontEntry>
+		<CompositeFontEntry Self="ua6" Name="$ID/Punctuation" FontStyle="$ID/R" RelativeSize="100" HorizontalScale="100" VerticalScale="100" CustomCharacters="—―‖‘’“”‥…′″∥、。〈〉《》「」『』【】〔〕〜・！（），．／：；？［］｛｝～" Locked="true" ScaleOption="true" BaselineShift="0">
+			<Properties>
+				<AppliedFont type="string">Kozuka Mincho Pr6N</AppliedFont>
+			</Properties>
+		</CompositeFontEntry>
+		<CompositeFontEntry Self="ua7" Name="$ID/Symbols" FontStyle="$ID/R" RelativeSize="100" HorizontalScale="100" VerticalScale="100" CustomCharacters="¢£§¨¬°±´¶×÷ΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩαβγδεζηθικλμνξοπρστυφχψωЁАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяё‐†‡‰※℃Å←↑→↓⇒⇔∀∂∃∇∈∋−√∝∞∠∧∨∩∪∫∬∴∵∽≒≠≡≦≧≪≫⊂⊃⊆⊇⊥⌒■□▲△▼▽◆◇○◎●◯★☆♀♂♪♭♯〃〆〇〒〓゛゜＃＄％＆＊＋－０１２３４５６７８９＜＝＞＠ＡＢＣＤＥＦＧＨＩＪＫＬＭＮＯＰＱＲＳＴＵＶＷＸＹＺ＼＾＿｀ａｂｃｄｅｆｇｈｉｊｋｌｍｎｏｐｑｒｓｔｕｖｗｘｙｚ｜￠￡￢￣￥" Locked="true" ScaleOption="true" BaselineShift="0">
+			<Properties>
+				<AppliedFont type="string">Kozuka Mincho Pr6N</AppliedFont>
+			</Properties>
+		</CompositeFontEntry>
+		<CompositeFontEntry Self="ua8" Name="$ID/Alphabetic" FontStyle="$ID/Regular" RelativeSize="100" HorizontalScale="100" VerticalScale="100" CustomCharacters=" !&quot;#$%&amp;&apos;()*+,-./:;&lt;=&gt;?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ ¡¤¥¦©ª«­®¯²³µ·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõöøùúûüýþÿıŒœŠšŸŽžƒˆˇ˘˙˚˛˜˝–‚„•‹›⁄€™∆∏∑≈≤≥◊ﬀﬁﬂﬃﬄﬅﬆ" Locked="true" ScaleOption="false" BaselineShift="0">
+			<Properties>
+				<AppliedFont type="string">Minion Pro</AppliedFont>
+			</Properties>
+		</CompositeFontEntry>
+		<CompositeFontEntry Self="ua9" Name="$ID/Numbers" FontStyle="$ID/Regular" RelativeSize="100" HorizontalScale="100" VerticalScale="100" CustomCharacters="0123456789" Locked="true" ScaleOption="false" BaselineShift="0">
+			<Properties>
+				<AppliedFont type="string">Minion Pro</AppliedFont>
+			</Properties>
+		</CompositeFontEntry>
+	</CompositeFont>
+	<RootCharacterStyleGroup Self="u79">
+		<CharacterStyle Self="CharacterStyle/$ID/[No character style]" Imported="false" SplitDocument="false" EmitCss="true" Name="$ID/[No character style]" />
+		<CharacterStyle Self="CharacterStyle/Header 2" Imported="false" SplitDocument="false" EmitCss="true" KeyboardShortcut="0 0" Name="Header 2">
+			<Properties>
+				<BasedOn type="string">$ID/[No character style]</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
+			</Properties>
+		</CharacterStyle>
+		<CharacterStyle Self="CharacterStyle/Basic Block Quote" Imported="false" SplitDocument="false" EmitCss="true" KeyboardShortcut="0 0" Name="Basic Block Quote" FontStyle="Italic">
+			<Properties>
+				<BasedOn type="string">$ID/[No character style]</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
+			</Properties>
+		</CharacterStyle>
+	</RootCharacterStyleGroup>
+	<NumberingList Self="NumberingList/$ID/[Default]" Name="$ID/[Default]" ContinueNumbersAcrossStories="false" ContinueNumbersAcrossDocuments="false" />
+	<RootParagraphStyleGroup Self="u78">
+		<ParagraphStyle Self="ParagraphStyle/$ID/[No paragraph style]" Name="$ID/[No paragraph style]" Imported="false" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" FillColor="Color/Black" FontStyle="Regular" PointSize="12" HorizontalScale="100" KerningMethod="$ID/Metrics" Ligatures="true" PageNumberType="AutoPageNumber" StrokeWeight="1" Tracking="0" Composer="HL Composer" DropCapCharacters="0" DropCapLines="0" BaselineShift="0" Capitalization="Normal" StrokeColor="Swatch/None" HyphenateLadderLimit="3" VerticalScale="100" LeftIndent="0" RightIndent="0" FirstLineIndent="0" AutoLeading="120" AppliedLanguage="$ID/English: USA" Hyphenation="true" HyphenateAfterFirst="2" HyphenateBeforeLast="2" HyphenateCapitalizedWords="true" HyphenateWordsLongerThan="5" NoBreak="false" HyphenationZone="36" SpaceBefore="0" SpaceAfter="0" Underline="false" OTFFigureStyle="Default" DesiredWordSpacing="100" MaximumWordSpacing="133" MinimumWordSpacing="80" DesiredLetterSpacing="0" MaximumLetterSpacing="0" MinimumLetterSpacing="0" DesiredGlyphScaling="100" MaximumGlyphScaling="100" MinimumGlyphScaling="100" StartParagraph="Anywhere" KeepAllLinesTogether="false" KeepWithNext="0" KeepFirstLines="2" KeepLastLines="2" Position="Normal" StrikeThru="false" CharacterAlignment="AlignEmCenter" KeepLinesTogether="false" StrokeTint="-1" FillTint="-1" OverprintStroke="false" OverprintFill="false" GradientStrokeAngle="0" GradientFillAngle="0" GradientStrokeLength="-1" GradientFillLength="-1" GradientStrokeStart="0 0" GradientFillStart="0 0" Skew="0" RuleAboveLineWeight="1" RuleAboveTint="-1" RuleAboveOffset="0" RuleAboveLeftIndent="0" RuleAboveRightIndent="0" RuleAboveWidth="ColumnWidth" RuleBelowLineWeight="1" RuleBelowTint="-1" RuleBelowOffset="0" RuleBelowLeftIndent="0" RuleBelowRightIndent="0" RuleBelowWidth="ColumnWidth" RuleAboveOverprint="false" RuleBelowOverprint="false" RuleAbove="false" RuleBelow="false" LastLineIndent="0" HyphenateLastWord="true" ParagraphBreakType="Anywhere" SingleWordJustification="FullyJustified" OTFOrdinal="false" OTFFraction="false" OTFDiscretionaryLigature="false" OTFTitling="false" RuleAboveGapTint="-1" RuleAboveGapOverprint="false" RuleBelowGapTint="-1" RuleBelowGapOverprint="false" Justification="LeftAlign" DropcapDetail="1" PositionalForm="None" OTFMark="true" HyphenWeight="5" OTFLocale="true" HyphenateAcrossColumns="true" KeepRuleAboveInFrame="false" IgnoreEdgeAlignment="false" OTFSlashedZero="false" OTFStylisticSets="0" OTFHistorical="false" OTFContextualAlternate="true" UnderlineGapOverprint="false" UnderlineGapTint="-1" UnderlineOffset="-9999" UnderlineOverprint="false" UnderlineTint="-1" UnderlineWeight="-9999" StrikeThroughGapOverprint="false" StrikeThroughGapTint="-1" StrikeThroughOffset="-9999" StrikeThroughOverprint="false" StrikeThroughTint="-1" StrikeThroughWeight="-9999" MiterLimit="4" StrokeAlignment="OutsideAlignment" EndJoin="MiterEndJoin" SpanColumnType="SingleColumn" SplitColumnInsideGutter="6" SplitColumnOutsideGutter="0" KeepWithPrevious="false" SpanColumnMinSpaceBefore="0" SpanColumnMinSpaceAfter="0" OTFSwash="false" ParagraphShadingTint="20" ParagraphShadingOverprint="false" ParagraphShadingWidth="ColumnWidth" ParagraphShadingOn="false" ParagraphShadingClipToFrame="false" ParagraphShadingSuppressPrinting="false" ParagraphShadingLeftOffset="0" ParagraphShadingRightOffset="0" ParagraphShadingTopOffset="0" ParagraphShadingBottomOffset="0" ParagraphShadingTopOrigin="AscentTopOrigin" ParagraphShadingBottomOrigin="DescentBottomOrigin" ParagraphBorderTint="-1" ParagraphBorderOverprint="false" ParagraphBorderOn="false" ParagraphBorderGapTint="-1" ParagraphBorderGapOverprint="false" Tsume="0" LeadingAki="-1" TrailingAki="-1" KinsokuType="KinsokuPushInFirst" KinsokuHangType="None" BunriKinshi="true" RubyOpenTypePro="true" RubyFontSize="-1" RubyAlignment="RubyJIS" RubyType="PerCharacterRuby" RubyParentSpacing="RubyParent121Aki" RubyXScale="100" RubyYScale="100" RubyXOffset="0" RubyYOffset="0" RubyPosition="AboveRight" RubyAutoAlign="true" RubyParentOverhangAmount="RubyOverhangOneRuby" RubyOverhang="false" RubyAutoScaling="false" RubyParentScalingPercent="66" RubyTint="-1" RubyOverprintFill="Auto" RubyStrokeTint="-1" RubyOverprintStroke="Auto" RubyWeight="-1" KentenKind="None" KentenFontSize="-1" KentenXScale="100" KentenYScale="100" KentenPlacement="0" KentenAlignment="AlignKentenCenter" KentenPosition="AboveRight" KentenCustomCharacter="" KentenCharacterSet="CharacterInput" KentenTint="-1" KentenOverprintFill="Auto" KentenStrokeTint="-1" KentenOverprintStroke="Auto" KentenWeight="-1" Tatechuyoko="false" TatechuyokoXOffset="0" TatechuyokoYOffset="0" AutoTcy="0" AutoTcyIncludeRoman="false" Jidori="0" GridGyoudori="0" GridAlignFirstLineOnly="false" GridAlignment="None" CharacterRotation="0" RotateSingleByteCharacters="false" Rensuuji="true" ShataiMagnification="0" ShataiDegreeAngle="4500" ShataiAdjustTsume="true" ShataiAdjustRotation="false" Warichu="false" WarichuLines="2" WarichuSize="50" WarichuLineSpacing="0" WarichuAlignment="Auto" WarichuCharsBeforeBreak="2" WarichuCharsAfterBreak="2" OTFHVKana="false" OTFProportionalMetrics="false" OTFRomanItalics="false" LeadingModel="LeadingModelAkiBelow" ScaleAffectsLineHeight="false" ParagraphGyoudori="false" CjkGridTracking="false" GlyphForm="None" RubyAutoTcyDigits="0" RubyAutoTcyIncludeRoman="false" RubyAutoTcyAutoScale="true" TreatIdeographicSpaceAsSpace="true" AllowArbitraryHyphenation="false" BulletsAndNumberingListType="NoList" NumberingStartAt="1" NumberingLevel="1" NumberingContinue="true" NumberingApplyRestartPolicy="true" BulletsAlignment="LeftAlign" NumberingAlignment="LeftAlign" NumberingExpression="^#.^t" BulletsTextAfter="^t" ParagraphBorderLeftOffset="0" ParagraphBorderRightOffset="0" ParagraphBorderTopOffset="0" ParagraphBorderBottomOffset="0" ParagraphBorderStrokeEndJoin="MiterEndJoin" ParagraphBorderTopLeftCornerOption="None" ParagraphBorderTopRightCornerOption="None" ParagraphBorderBottomLeftCornerOption="None" ParagraphBorderBottomRightCornerOption="None" ParagraphBorderTopLeftCornerRadius="12" ParagraphBorderTopRightCornerRadius="12" ParagraphBorderBottomLeftCornerRadius="12" ParagraphBorderBottomRightCornerRadius="12" ParagraphShadingTopLeftCornerOption="None" ParagraphShadingTopRightCornerOption="None" ParagraphShadingBottomLeftCornerOption="None" ParagraphShadingBottomRightCornerOption="None" ParagraphShadingTopLeftCornerRadius="12" ParagraphShadingTopRightCornerRadius="12" ParagraphShadingBottomLeftCornerRadius="12" ParagraphShadingBottomRightCornerRadius="12" ParagraphBorderStrokeEndCap="ButtEndCap" ParagraphBorderWidth="ColumnWidth" ParagraphBorderTopOrigin="AscentTopOrigin" ParagraphBorderBottomOrigin="DescentBottomOrigin" ParagraphBorderTopLineWeight="1" ParagraphBorderBottomLineWeight="1" ParagraphBorderLeftLineWeight="1" ParagraphBorderRightLineWeight="1" ParagraphBorderDisplayIfSplits="false" ProviderHyphenationStyle="HyphAll" DigitsType="DefaultDigits" Kashidas="DefaultKashidas" DiacriticPosition="OpentypePositionFromBaseline" CharacterDirection="DefaultDirection" ParagraphDirection="LeftToRightDirection" ParagraphJustification="DefaultJustification" ParagraphKashidaWidth="2" XOffsetDiacritic="0" YOffsetDiacritic="0" OTFOverlapSwash="false" OTFStylisticAlternate="false" OTFJustificationAlternate="false" OTFStretchedAlternate="false" KeyboardDirection="DefaultDirection">
+			<Properties>
+				<Leading type="enumeration">Auto</Leading>
+				<TabList type="list">
+				</TabList>
+				<AppliedFont type="string">Minion Pro</AppliedFont>
+				<RuleAboveColor type="string">Text Color</RuleAboveColor>
+				<RuleBelowColor type="string">Text Color</RuleBelowColor>
+				<RuleAboveType type="object">StrokeStyle/$ID/Solid</RuleAboveType>
+				<RuleBelowType type="object">StrokeStyle/$ID/Solid</RuleBelowType>
+				<BalanceRaggedLines type="enumeration">NoBalancing</BalanceRaggedLines>
+				<RuleAboveGapColor type="object">Swatch/None</RuleAboveGapColor>
+				<RuleBelowGapColor type="object">Swatch/None</RuleBelowGapColor>
+				<UnderlineColor type="string">Text Color</UnderlineColor>
+				<UnderlineGapColor type="object">Swatch/None</UnderlineGapColor>
+				<UnderlineType type="object">StrokeStyle/$ID/Solid</UnderlineType>
+				<StrikeThroughColor type="string">Text Color</StrikeThroughColor>
+				<StrikeThroughGapColor type="object">Swatch/None</StrikeThroughGapColor>
+				<StrikeThroughType type="object">StrokeStyle/$ID/Solid</StrikeThroughType>
+				<SpanSplitColumnCount type="enumeration">All</SpanSplitColumnCount>
+				<ParagraphShadingColor type="object">Color/Black</ParagraphShadingColor>
+				<ParagraphBorderColor type="object">Color/Black</ParagraphBorderColor>
+				<ParagraphBorderGapColor type="object">Swatch/None</ParagraphBorderGapColor>
+				<ParagraphBorderType type="object">StrokeStyle/$ID/Solid</ParagraphBorderType>
+				<Mojikumi type="enumeration">Nothing</Mojikumi>
+				<KinsokuSet type="enumeration">Nothing</KinsokuSet>
+				<RubyFont type="string">$ID/</RubyFont>
+				<RubyFontStyle type="enumeration">Nothing</RubyFontStyle>
+				<RubyFill type="string">Text Color</RubyFill>
+				<RubyStroke type="string">Text Color</RubyStroke>
+				<KentenFont type="string">$ID/</KentenFont>
+				<KentenFontStyle type="enumeration">Nothing</KentenFontStyle>
+				<KentenFillColor type="string">Text Color</KentenFillColor>
+				<KentenStrokeColor type="string">Text Color</KentenStrokeColor>
+				<BulletChar BulletCharacterType="UnicodeOnly" BulletCharacterValue="8226" />
+				<NumberingFormat type="string">1, 2, 3, 4...</NumberingFormat>
+				<BulletsFont type="string">$ID/</BulletsFont>
+				<BulletsFontStyle type="enumeration">Nothing</BulletsFontStyle>
+				<AppliedNumberingList type="object">NumberingList/$ID/[Default]</AppliedNumberingList>
+				<NumberingRestartPolicies RestartPolicy="AnyPreviousLevel" LowerLevel="0" UpperLevel="0" />
+				<BulletsCharacterStyle type="object">CharacterStyle/$ID/[No character style]</BulletsCharacterStyle>
+				<NumberingCharacterStyle type="object">CharacterStyle/$ID/[No character style]</NumberingCharacterStyle>
+			</Properties>
+		</ParagraphStyle>
+		<ParagraphStyle Self="ParagraphStyle/$ID/NormalParagraphStyle" Name="$ID/NormalParagraphStyle" Imported="false" NextStyle="ParagraphStyle/$ID/NormalParagraphStyle" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0">
+			<Properties>
+				<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
+			</Properties>
+		</ParagraphStyle>
+		<ParagraphStyle Self="ParagraphStyle/Basic Header 2" Name="Basic Header 2" Imported="false" NextStyle="ParagraphStyle/Basic Paragraph" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" FontStyle="Narrow Bold" PointSize="14" Composer="HL Composer Optyca" SpaceBefore="5" SpaceAfter="5">
+			<Properties>
+				<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
+				<AppliedFont type="string">Arial</AppliedFont>
+			</Properties>
+		</ParagraphStyle>
+		<ParagraphStyle Self="ParagraphStyle/Basic Paragraph" Name="Basic Paragraph" Imported="false" NextStyle="ParagraphStyle/Basic Paragraph" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" Composer="HL Composer Optyca" SpaceBefore="5" SpaceAfter="5">
+			<Properties>
+				<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
+				<AppliedFont type="string">Arial</AppliedFont>
+			</Properties>
+		</ParagraphStyle>
+		<ParagraphStyle Self="ParagraphStyle/Basic Block Quote" Name="Basic Block Quote" Imported="false" NextStyle="ParagraphStyle/Basic Block Quote" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" FontStyle="Italic" LeftIndent="9" RightIndent="10">
+			<Properties>
+				<BasedOn type="object">ParagraphStyle/Basic Paragraph</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
+			</Properties>
+		</ParagraphStyle>
+	</RootParagraphStyleGroup>
+	<RootCellStyleGroup Self="u88">
+		<CellStyle Self="CellStyle/$ID/[None]" AppliedParagraphStyle="ParagraphStyle/$ID/[No paragraph style]" Name="$ID/[None]" />
+	</RootCellStyleGroup>
+	<RootTableStyleGroup Self="u8a">
+		<TableStyle Self="TableStyle/$ID/[No table style]" GraphicLeftInset="0" GraphicTopInset="0" GraphicRightInset="0" GraphicBottomInset="0" ClipContentToGraphicCell="false" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" Name="$ID/[No table style]" StrokeOrder="BestJoins" TopBorderStrokeWeight="1" TopBorderStrokeType="StrokeStyle/$ID/Solid" TopBorderStrokeColor="Color/Black" TopBorderStrokeTint="100" TopBorderStrokeOverprint="false" TopBorderStrokeGapColor="Color/Paper" TopBorderStrokeGapTint="100" TopBorderStrokeGapOverprint="false" LeftBorderStrokeWeight="1" LeftBorderStrokeType="StrokeStyle/$ID/Solid" LeftBorderStrokeColor="Color/Black" LeftBorderStrokeTint="100" LeftBorderStrokeOverprint="false" LeftBorderStrokeGapColor="Color/Paper" LeftBorderStrokeGapTint="100" LeftBorderStrokeGapOverprint="false" BottomBorderStrokeWeight="1" BottomBorderStrokeType="StrokeStyle/$ID/Solid" BottomBorderStrokeColor="Color/Black" BottomBorderStrokeTint="100" BottomBorderStrokeOverprint="false" BottomBorderStrokeGapColor="Color/Paper" BottomBorderStrokeGapTint="100" BottomBorderStrokeGapOverprint="false" RightBorderStrokeWeight="1" RightBorderStrokeType="StrokeStyle/$ID/Solid" RightBorderStrokeColor="Color/Black" RightBorderStrokeTint="100" RightBorderStrokeOverprint="false" RightBorderStrokeGapColor="Color/Paper" RightBorderStrokeGapTint="100" RightBorderStrokeGapOverprint="false" SpaceBefore="4" SpaceAfter="-4" SkipFirstAlternatingStrokeRows="0" SkipLastAlternatingStrokeRows="0" StartRowStrokeCount="0" StartRowStrokeColor="Color/Black" StartRowStrokeWeight="1" StartRowStrokeType="StrokeStyle/$ID/Solid" StartRowStrokeTint="100" StartRowStrokeGapOverprint="false" StartRowStrokeGapColor="Color/Paper" StartRowStrokeGapTint="100" StartRowStrokeOverprint="false" EndRowStrokeCount="0" EndRowStrokeColor="Color/Black" EndRowStrokeWeight="0.25" EndRowStrokeType="StrokeStyle/$ID/Solid" EndRowStrokeTint="100" EndRowStrokeOverprint="false" EndRowStrokeGapColor="Color/Paper" EndRowStrokeGapTint="100" EndRowStrokeGapOverprint="false" SkipFirstAlternatingStrokeColumns="0" SkipLastAlternatingStrokeColumns="0" StartColumnStrokeCount="0" StartColumnStrokeColor="Color/Black" StartColumnStrokeWeight="1" StartColumnStrokeType="StrokeStyle/$ID/Solid" StartColumnStrokeTint="100" StartColumnStrokeOverprint="false" StartColumnStrokeGapColor="Color/Paper" StartColumnStrokeGapTint="100" StartColumnStrokeGapOverprint="false" EndColumnStrokeCount="0" EndColumnStrokeColor="Color/Black" EndColumnStrokeWeight="0.25" EndColumnLineStyle="StrokeStyle/$ID/Solid" EndColumnStrokeTint="100" EndColumnStrokeOverprint="false" EndColumnStrokeGapColor="Color/Paper" EndColumnStrokeGapTint="100" EndColumnStrokeGapOverprint="false" ColumnFillsPriority="false" SkipFirstAlternatingFillRows="0" SkipLastAlternatingFillRows="0" StartRowFillColor="Color/Black" StartRowFillCount="0" StartRowFillTint="20" StartRowFillOverprint="false" EndRowFillCount="0" EndRowFillColor="Swatch/None" EndRowFillTint="100" EndRowFillOverprint="false" SkipFirstAlternatingFillColumns="0" SkipLastAlternatingFillColumns="0" StartColumnFillCount="0" StartColumnFillColor="Color/Black" StartColumnFillTint="20" StartColumnFillOverprint="false" EndColumnFillCount="0" EndColumnFillColor="Swatch/None" EndColumnFillTint="100" EndColumnFillOverprint="false" HeaderRegionSameAsBodyRegion="true" FooterRegionSameAsBodyRegion="true" LeftColumnRegionSameAsBodyRegion="true" RightColumnRegionSameAsBodyRegion="true" HeaderRegionCellStyle="n" FooterRegionCellStyle="n" LeftColumnRegionCellStyle="n" RightColumnRegionCellStyle="n" BodyRegionCellStyle="CellStyle/$ID/[None]" />
+		<TableStyle Self="TableStyle/$ID/[Basic Table]" Name="$ID/[Basic Table]" KeyboardShortcut="0 0">
+			<Properties>
+				<BasedOn type="string">$ID/[No table style]</BasedOn>
+			</Properties>
+		</TableStyle>
+	</RootTableStyleGroup>
+	<TinDocumentDataObject>
+		<Properties>
+			<GaijiRefMaps><![CDATA[/////wAAAAAAAAAA]]></GaijiRefMaps>
+		</Properties>
+	</TinDocumentDataObject>
+	<FootnoteOption StartAt="1" Prefix="" Suffix="" FootnoteTextStyle="ParagraphStyle/$ID/NormalParagraphStyle" FootnoteMarkerStyle="CharacterStyle/$ID/[No character style]" SeparatorText="&#x9;" SpaceBetween="0" Spacer="0" FootnoteFirstBaselineOffset="LeadingOffset" FootnoteMinimumFirstBaselineOffset="0" EosPlacement="false" NoSplitting="false" RuleOn="true" RuleLineWeight="1" RuleTint="100" RuleGapTint="100" RuleGapOverprint="false" RuleOverprint="false" RuleLeftIndent="0" RuleWidth="72" RuleOffset="0" ContinuingRuleOn="true" ContinuingRuleLineWeight="1" ContinuingRuleTint="100" ContinuingRuleGapTint="100" ContinuingRuleOverprint="false" ContinuingRuleGapOverprint="false" ContinuingRuleLeftIndent="0" ContinuingRuleWidth="288" ContinuingRuleOffset="0" EnableStraddling="true">
+		<Properties>
+			<FootnoteNumberingStyle type="enumeration">Arabic</FootnoteNumberingStyle>
+			<RestartNumbering type="enumeration">DontRestart</RestartNumbering>
+			<ShowPrefixSuffix type="enumeration">NoPrefixSuffix</ShowPrefixSuffix>
+			<MarkerPositioning type="enumeration">SuperscriptMarker</MarkerPositioning>
+			<RuleType type="object">StrokeStyle/$ID/Solid</RuleType>
+			<RuleColor type="object">Color/Black</RuleColor>
+			<RuleGapColor type="object">Swatch/None</RuleGapColor>
+			<ContinuingRuleType type="object">StrokeStyle/$ID/Solid</ContinuingRuleType>
+			<ContinuingRuleColor type="object">Color/Black</ContinuingRuleColor>
+			<ContinuingRuleGapColor type="object">Swatch/None</ContinuingRuleGapColor>
+		</Properties>
+	</FootnoteOption>
+	<ConditionalTextPreference ShowConditionIndicators="ShowIndicators" ActiveConditionSet="n" />
+	<TextVariable Self="dTextVariablen&lt;?AID 001b?&gt;TV XRefChapterNumber" Name="&lt;?AID 001b?&gt;TV XRefChapterNumber" VariableType="XrefChapterNumberType" />
+	<TextVariable Self="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" VariableType="XrefPageNumberType" />
+	<TextVariable Self="dTextVariablenChapter Number" Name="Chapter Number" VariableType="ChapterNumberType">
+		<ChapterNumberVariablePreference TextBefore="" Format="Current" TextAfter="" />
+	</TextVariable>
+	<TextVariable Self="dTextVariablenCreation Date" Name="Creation Date" VariableType="CreationDateType">
+		<DateVariablePreference TextBefore="" Format="MM/dd/yy" TextAfter="" />
+	</TextVariable>
+	<TextVariable Self="dTextVariablenFile Name" Name="File Name" VariableType="FileNameType">
+		<FileNameVariablePreference TextBefore="" IncludePath="false" IncludeExtension="false" TextAfter="" />
+	</TextVariable>
+	<TextVariable Self="dTextVariablenImage Name" Name="Image Name" VariableType="LiveCaptionType">
+		<CaptionMetadataVariablePreference TextBefore="" MetadataProviderName="$ID/#LinkInfoNameStr" TextAfter="" />
+	</TextVariable>
+	<TextVariable Self="dTextVariablenLast Page Number" Name="Last Page Number" VariableType="LastPageNumberType">
+		<PageNumberVariablePreference TextBefore="" Format="Current" TextAfter="" Scope="SectionScope" />
+	</TextVariable>
+	<TextVariable Self="dTextVariablenModification Date" Name="Modification Date" VariableType="ModificationDateType">
+		<DateVariablePreference TextBefore="" Format="MMMM d, yyyy h:mm aa" TextAfter="" />
+	</TextVariable>
+	<TextVariable Self="dTextVariablenOutput Date" Name="Output Date" VariableType="OutputDateType">
+		<DateVariablePreference TextBefore="" Format="MM/dd/yy" TextAfter="" />
+	</TextVariable>
+	<TextVariable Self="dTextVariablenRunning Header" Name="Running Header" VariableType="MatchParagraphStyleType">
+		<MatchParagraphStylePreference TextBefore="" TextAfter="" AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" SearchStrategy="FirstOnPage" ChangeCase="None" DeleteEndPunctuation="false" />
+	</TextVariable>
+	<XMLTag Self="XMLTag/Root" Name="Root">
+		<Properties>
+			<TagColor type="enumeration">LightBlue</TagColor>
+		</Properties>
+	</XMLTag>
+	<CrossReferenceFormat Self="u98" Name="Full Paragraph &amp; Page Number" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u98BuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u98BuildingBlock1" BlockType="FullParagraphBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u98BuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot; on page " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u98BuildingBlock3" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u99" Name="Full Paragraph" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u99BuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u99BuildingBlock1" BlockType="FullParagraphBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u99BuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u9a" Name="Paragraph Text &amp; Page Number" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u9aBuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u9aBuildingBlock1" BlockType="ParagraphTextBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u9aBuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot; on page " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u9aBuildingBlock3" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u9b" Name="Paragraph Text" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u9bBuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u9bBuildingBlock1" BlockType="ParagraphTextBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u9bBuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u9c" Name="Paragraph Number &amp; Page Number" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u9cBuildingBlock0" BlockType="ParagraphNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u9cBuildingBlock1" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText=" on page " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u9cBuildingBlock2" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u9d" Name="Paragraph Number" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u9dBuildingBlock0" BlockType="ParagraphNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u9e" Name="Text Anchor Name &amp; Page Number" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u9eBuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u9eBuildingBlock1" BlockType="BookmarkNameBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u9eBuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot; on page " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u9eBuildingBlock3" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u9f" Name="Text Anchor Name" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u9fBuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u9fBuildingBlock1" BlockType="BookmarkNameBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u9fBuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="ua0" Name="Page Number" AppliedCharacterStyle="n">
+		<BuildingBlock Self="ua0BuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="page " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="ua0BuildingBlock1" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<Story Self="ud7" IsEndnoteStory="false" TrackChanges="false" StoryTitle="2018-01-27-TIL-wireframes_mockups_prototypes" AppliedNamedGrid="n">
+		<Properties>
+			<AppliedIndexInstance type="enumeration">Nothing</AppliedIndexInstance>
+		</Properties>
+		<StoryPreference OpticalMarginAlignment="false" OpticalMarginSize="12" FrameType="TextFrameType" StoryOrientation="Horizontal" StoryDirection="LeftToRightDirection" />
+		<MetadataPacketPreference>
+			<Properties>
+				<Contents><![CDATA[<?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c143 79.161210, 2017/08/11-10:28:36        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""
+            xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+            xmlns:xmpTPg="http://ns.adobe.com/xap/1.0/t/pg/"
+            xmlns:xmpGImg="http://ns.adobe.com/xap/1.0/g/img/"
+            xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+            xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/"
+            xmlns:stFnt="http://ns.adobe.com/xap/1.0/sType/Font#">
+         <xmp:CreateDate>2018-01-27T17:03:30-06:00</xmp:CreateDate>
+         <xmp:MetadataDate>2018-01-27T19:19:12-06:00</xmp:MetadataDate>
+         <xmp:ModifyDate>2018-01-27T19:19:12-06:00</xmp:ModifyDate>
+         <xmp:CreatorTool>Adobe InCopy CC 13.0 (Windows)</xmp:CreatorTool>
+         <xmp:PageInfo>
+            <rdf:Seq>
+               <rdf:li rdf:parseType="Resource">
+                  <xmpTPg:PageNumber>1</xmpTPg:PageNumber>
+                  <xmpGImg:format>JPEG</xmpGImg:format>
+                  <xmpGImg:width>256</xmpGImg:width>
+                  <xmpGImg:height>256</xmpGImg:height>
+                  <xmpGImg:image>/9j/4AAQSkZJRgABAgEASABIAAD/7QAsUGhvdG9zaG9wIDMuMAA4QklNA+0AAAAAABAASAAAAAEA&#xA;AQBIAAAAAQAB/+4AE0Fkb2JlAGQAAAAAAQUAAklE/9sAhAAKBwcHBwcKBwcKDgkJCQ4RDAsLDBEU&#xA;EBAQEBAUEQ8RERERDxERFxoaGhcRHyEhISEfKy0tLSsyMjIyMjIyMjIyAQsJCQ4MDh8XFx8rIx0j&#xA;KzIrKysrMjIyMjIyMjIyMjIyMjIyMjI+Pj4+PjJAQEBAQEBAQEBAQEBAQEBAQEBAQED/wAARCAEA&#xA;AJADAREAAhEBAxEB/8QBogAAAAcBAQEBAQAAAAAAAAAABAUDAgYBAAcICQoLAQACAgMBAQEBAQAA&#xA;AAAAAAABAAIDBAUGBwgJCgsQAAIBAwMCBAIGBwMEAgYCcwECAxEEAAUhEjFBUQYTYSJxgRQykaEH&#xA;FbFCI8FS0eEzFmLwJHKC8SVDNFOSorJjc8I1RCeTo7M2F1RkdMPS4ggmgwkKGBmElEVGpLRW01Uo&#xA;GvLj88TU5PRldYWVpbXF1eX1ZnaGlqa2xtbm9jdHV2d3h5ent8fX5/c4SFhoeIiYqLjI2Oj4KTlJ&#xA;WWl5iZmpucnZ6fkqOkpaanqKmqq6ytrq+hEAAgIBAgMFBQQFBgQIAwNtAQACEQMEIRIxQQVRE2Ei&#xA;BnGBkTKhsfAUwdHhI0IVUmJy8TMkNEOCFpJTJaJjssIHc9I14kSDF1STCAkKGBkmNkUaJ2R0VTfy&#xA;o7PDKCnT4/OElKS0xNTk9GV1hZWltcXV5fVGVmZ2hpamtsbW5vZHV2d3h5ent8fX5/c4SFhoeIiY&#xA;qLjI2Oj4OUlZaXmJmam5ydnp+So6SlpqeoqaqrrK2ur6/9oADAMBAAIRAxEAPwCbeU/KflW58q6L&#xA;cXGi6fNNNp9rJJJJaws7u0MbMzM0ZJJJ3OKpt/gzyf8A9WHTf+kOD/qnirv8GeT/APqw6b/0hwf9&#xA;U8Vd/gzyf/1YdN/6Q4P+qeKu/wAGeT/+rDpv/SHB/wBU8Vd/gzyf/wBWHTf+kOD/AKp4q7/Bnk//&#xA;AKsOm/8ASHB/1TxV3+DPJ/8A1YdN/wCkOD/qnirv8GeT/wDqw6b/ANIcH/VPFXf4M8n/APVh03/p&#xA;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&#xA;Fb/9UsVdz8/f9XS0/wCCt/8Aqlirufn7/q6Wn/BW/wD1SxV3Pz9/1dLT/grf/qlirufn7/q6Wn/B&#xA;W/8A1SxV3Pz9/wBXS0/4K3/6pYq7n5+/6ulp/wAFb/8AVLFXc/P3/V0tP+Ct/wDqlirufn7/AKul&#xA;p/wVv/1SxV3Pz9/1dLT/AIK3/wCqWKu5+fv+rpaf8Fb/APVLFXc/P3/V0tP+Ct/+qWKppoE3mKO8&#xA;dtfv7aa29IhFRogfU5JQ/AiH7NcVRnnBlfydrrIQynTLyhBqD+4kxVvyZ/yh+g/9s2z/AOTEeKu8&#xA;3fUf0FP+kTKLblHz+rhTJXmtKcyB1xV51TyX/Nqn/Awf81Yq6nkv+bVP+Bg/5qxV1PJf82qf8DB/&#xA;zVirqeS/5tU/4GD/AJqxV1PJf82qf8DB/wA1Yq6nkv8Am1T/AIGD/mrFXU8l/wA2qf8AAwf81Yq6&#xA;nkv+bVP+Bg/5qxV1PJf82qf8DB/zVirqeS/5tU/4GD/mrFXU8l/zap/wMH/NWKup5L/m1T/gYP8A&#xA;mrFXU8l/zap/wMH/ADVirqeS/wCbVP8AgYP+asVdTyX/ADap/wADB/zVirOtdtobP8vtVtoCzRR6&#xA;TdBC9ORH1eQjlTauKovyZ/yh+g/9s2z/AOTEeKojXvrx0yX9HW8d3cVXhDMAyEchWoYqNhirEuPn&#xA;L/qw2P8AyKj/AOquKu4+cv8Aqw2P/IqP/qriruPnL/qw2P8AyKj/AOquKu4+cv8Aqw2P/IqP/qri&#xA;ruPnL/qw2P8AyKj/AOquKu4+cv8Aqw2P/IqP/qriruPnL/qw2P8AyKj/AOquKu4+cv8Aqw2P/IqP&#xA;/qriruPnL/qw2P8AyKj/AOquKu4+cv8Aqw2P/IqP/qriruPnL/qw2P8AyKj/AOquKu4+cv8Aqw2P&#xA;/IqP/qriruPnL/qw2P8AyKj/AOquKqkCebWnjWfQrJYi6iRhFHULX4j/AHp7YqzD9F6Z/wAscH/I&#xA;pP8AmnFUB5xAXydrqqKAaZeAAdv3EmKu8mf8ofoP/bNs/wDkxHiqdYq7FXYq7FXYq7FXYq7FXYq7&#xA;FXYq7FXYq7FXYq7FUl85/wDKH69/2zbz/kxJirvJn/KH6D/2zbP/AJMR4qnWKuxV2KuxV2KuxV2K&#xA;uxV2KuxV2KuxV2KuxV2KuxVJfOf/ACh+vf8AbNvP+TEmKv8A/9k=</xmpGImg:image>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <xmpTPg:PageNumber>2</xmpTPg:PageNumber>
+                  <xmpGImg:format>JPEG</xmpGImg:format>
+                  <xmpGImg:width>256</xmpGImg:width>
+                  <xmpGImg:height>256</xmpGImg:height>
+                  <xmpGImg:image>/9j/4AAQSkZJRgABAgEASABIAAD/7QAsUGhvdG9zaG9wIDMuMAA4QklNA+0AAAAAABAASAAAAAEA&#xA;AQBIAAAAAQAB/+4AE0Fkb2JlAGQAAAAAAQUAAklE/9sAhAAKBwcHBwcKBwcKDgkJCQ4RDAsLDBEU&#xA;EBAQEBAUEQ8RERERDxERFxoaGhcRHyEhISEfKy0tLSsyMjIyMjIyMjIyAQsJCQ4MDh8XFx8rIx0j&#xA;KzIrKysrMjIyMjIyMjIyMjIyMjIyMjI+Pj4+PjJAQEBAQEBAQEBAQEBAQEBAQEBAQED/wAARCAEA&#xA;AJADAREAAhEBAxEB/8QBogAAAAcBAQEBAQAAAAAAAAAABAUDAgYBAAcICQoLAQACAgMBAQEBAQAA&#xA;AAAAAAABAAIDBAUGBwgJCgsQAAIBAwMCBAIGBwMEAgYCcwECAxEEAAUhEjFBUQYTYSJxgRQykaEH&#xA;FbFCI8FS0eEzFmLwJHKC8SVDNFOSorJjc8I1RCeTo7M2F1RkdMPS4ggmgwkKGBmElEVGpLRW01Uo&#xA;GvLj88TU5PRldYWVpbXF1eX1ZnaGlqa2xtbm9jdHV2d3h5ent8fX5/c4SFhoeIiYqLjI2Oj4KTlJ&#xA;WWl5iZmpucnZ6fkqOkpaanqKmqq6ytrq+hEAAgIBAgMFBQQFBgQIAwNtAQACEQMEIRIxQQVRE2Ei&#xA;BnGBkTKhsfAUwdHhI0IVUmJy8TMkNEOCFpJTJaJjssIHc9I14kSDF1STCAkKGBkmNkUaJ2R0VTfy&#xA;o7PDKCnT4/OElKS0xNTk9GV1hZWltcXV5fVGVmZ2hpamtsbW5vZHV2d3h5ent8fX5/c4SFhoeIiY&#xA;qLjI2Oj4OUlZaXmJmam5ydnp+So6SlpqeoqaqrrK2ur6/9oADAMBAAIRAxEAPwCbeU/KflW58q6L&#xA;cXGi6fNNNp9rJJJJaws7u0MbMzM0ZJJJ3OKpt/gzyf8A9WHTf+kOD/qnirv8GeT/APqw6b/0hwf9&#xA;U8Vd/gzyf/1YdN/6Q4P+qeKu/wAGeT/+rDpv/SHB/wBU8Vd/gzyf/wBWHTf+kOD/AKp4q7/Bnk//&#xA;AKsOm/8ASHB/1TxV3+DPJ/8A1YdN/wCkOD/qnirv8GeT/wDqw6b/ANIcH/VPFXf4M8n/APVh03/p&#xA;Dg/6p4q7/Bnk/wD6sOm/9IcH/VPFXf4M8n/9WHTf+kOD/qnirv8ABnk//qw6b/0hwf8AVPFXf4M8&#xA;n/8AVh03/pDg/wCqeKu/wZ5P/wCrDpv/AEhwf9U8Vd/gzyf/ANWHTf8ApDg/6p4q7/Bnk/8A6sOm&#xA;/wDSHB/1TxVKfNnlPyrbeVdauLfRdPhmh0+6kjkjtYVdHWGRlZWWMEEEbHFU28mf8ofoP/bNs/8A&#xA;kxHiqYahqFrpdq97euY4YyAzAFvtEKNlBPU4qk/+O/LP/LU3/IqT/mjFUy0rW9O1pJH06QyrCQHJ&#xA;VloWrT7QHhiqYYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYqkvnP/lD9e/7Zt5/yYkxV3kz/lD9B/7Z&#xA;tn/yYjxVMNQGntauNU9L6rUc/rBUR1qONee3XFUn9LyJ46X/AMFD/XFUVZ33lTTwy2N1YW4kILiK&#xA;WJakdK0bFUR+ntC/6uVp/wAj4/8AmrFXfp7Qv+rlaf8AI+P/AJqxV36e0L/q5Wn/ACPj/wCasVd+&#xA;ntC/6uVp/wAj4/8AmrFXfp7Qv+rlaf8AI+P/AJqxV36e0L/q5Wn/ACPj/wCasVd+ntC/6uVp/wAj&#xA;4/8AmrFXfp7Qv+rlaf8AI+P/AJqxV36e0L/q5Wn/ACPj/wCasVd+ntC/6uVp/wAj4/8AmrFXfp7Q&#xA;v+rlaf8AI+P/AJqxV36e0L/q5Wn/ACPj/wCasVd+ntC/6uVp/wAj4/8AmrFUB5qurW88l69NaTR3&#xA;Ef6OvBziYOtRBJtVScVVfJn/ACh+g/8AbNs/+TEeKt+bGsF0Oc6mkj23KPmsJAevNeNOW3XFXn3r&#xA;+SP+WbUP+Dj/AK4q71/JH/LNqH/Bx/1xV3r+SP8Alm1D/g4/64q71/JH/LNqH/Bx/wBcVd6/kj/l&#xA;m1D/AIOP+uKu9fyR/wAs2of8HH/XFXev5I/5ZtQ/4OP+uKu9fyR/yzah/wAHH/XFXev5I/5ZtQ/4&#xA;OP8ArirvX8kf8s2of8HH/XFXev5I/wCWbUP+Dj/rirvX8kf8s2of8HH/AFxV3r+SP+WbUP8Ag4/6&#xA;4q71/JH/ACzah/wcf9cVR2jWHk7Wr9NPt4b6ORwzBpHTj8Ir+zXFWSa5pFpovkXXrKy5el+j71/j&#xA;PI1aB670HhiqO8mf8ofoP/bNs/8AkxHiqZ3l1aWdu1xeusUC0DO/2RU0H44qlv8AiPyx/wAttt+H&#xA;9MVd/iPyx/y2234f0xV3+I/LH/Lbbfh/TFXf4j8sf8ttt+H9MVd/iPyx/wAttt+H9MVd/iPyx/y2&#xA;234f0xV3+I/LH/Lbbfh/TFXf4j8sf8ttt+H9MVd/iPyx/wAttt+H9MVd/iPyx/y2234f0xV3+I/L&#xA;H/Lbbfh/TFW08weWpHWNLy3ZnIVQKVJOwHTFU19GH/fa/cMVd6MP++1+4Yq4Rxqaqig+IAGKpR5z&#xA;/wCUP17/ALZt5/yYkxV3kz/lD9B/7Ztn/wAmI8VR+pada6raPY3gLQyEFgp4n4SGG49xiqS/4A8u&#xA;f76l/wCRjYq7/AHlz/fUv/IxsVd/gDy5/vqX/kY2Ku/wB5c/31L/AMjGxV3+APLn++pf+RjYq7/A&#xA;Hlz/AH1L/wAjGxV3+APLn++pf+RjYq7/AAB5c/31L/yMbFXf4A8uf76l/wCRjYq7/AHlz/fUv/Ix&#xA;sVd/gDy5/vqX/kY2KrovInl6GVJo45A8bB1/eN1U1GKsjxV2KuxVJfOf/KH69/2zbz/kxJirvJn/&#xA;ACh+g/8AbNs/+TEeKp1irzjW4PL7ateG41q4t5TK3OJYXZUNfsgjFUD9X8s/9X+5/wCREn9cVd9X&#xA;8s/9X+5/5ESf1xV31fyz/wBX+5/5ESf1xV31fyz/ANX+5/5ESf1xV31fyz/1f7n/AJESf1xV31fy&#xA;z/1f7n/kRJ/XFXfV/LP/AFf7n/kRJ/XFXfV/LP8A1f7n/kRJ/XFXfV/LP/V/uf8AkRJ/XFXfV/LP&#xA;/V/uf+REn9cVTqy8kW+oWsd5a6vcPDMKoxQiorToXB7Yqr/8q8/7Ws//AAP/ADfirv8AlXn/AGtZ&#xA;/wDgf+b8VZBoGjfoOze0+sPdc5TLzcUIqqLx6n+XFVHzn/yh+vf9s28/5MSYq7yZ/wAofoP/AGzb&#xA;P/kxHiqbyzRQIZJ3WJB1ZyFAr7nFUomtvKVxK0862Ekkh5O7GIkk9yScVWfUPJv++tP/AOSWKu+o&#xA;eTf99af/AMksVd9Q8m/760//AJJYq76h5N/31p//ACSxV31Dyb/vrT/+SWKu+oeTf99af/ySxV31&#xA;Dyb/AL60/wD5JYq76h5N/wB9af8A8ksVd9Q8m/760/8A5JYq76h5N/31p/8AySxVHQXui2sSwW9z&#xA;bRRIKKiSIFA67AHFVT9KaZ/y2Qf8jU/5qxV36U0z/lsg/wCRqf8ANWKu/Smmf8tkH/I1P+asVS/z&#xA;g6yeTdcdGDK2mXZVgaggwSUIOKt+TP8AlD9B/wC2bZ/8mI8Vb82NYLoc51NJHtuUfNYSA9ea8act&#xA;uuKvPvX8kf8ALNqH/Bx/1xV3r+SP+WbUP+Dj/rirvX8kf8s2of8ABx/1xV3r+SP+WbUP+Dj/AK4q&#xA;71/JH/LNqH/Bx/1xV3r+SP8Alm1D/g4/64q71/JH/LNqH/Bx/wBcVd6/kj/lm1D/AIOP+uKu9fyR&#xA;/wAs2of8HH/XFXev5I/5ZtQ/4OP+uKu9fyR/yzah/wAHH/XFXev5I/5ZtQ/4OP8ArirvX8kf8s2o&#xA;f8HH/XFXev5I/wCWbUP+Dj/riqdaB5e8qeYY5pLWO7iEBVW9V135AnbiG8MVZD5ot47PyNrFpDX0&#xA;7fSbmJK7nilu6iv3Yqq+TP8AlD9B/wC2bZ/8mI8VRWufpH9Gyforh9aqvD1ePGnIcq89umKsV/53&#xA;7/l0/wCSGKu/537/AJdP+SGKu/537/l0/wCSGKu/537/AJdP+SGKu/537/l0/wCSGKu/537/AJdP&#xA;+SGKu/537/l0/wCSGKu/537/AJdP+SGKu/537/l0/wCSGKu/537/AJdP+SGKu/537/l0/wCSGKu/&#xA;537/AJdP+SGKu/537/l0/wCSGKu/537/AJdP+SGKsh8uDWxbynWxF6hcekYeFONO/p++Ktec/wDl&#xA;D9e/7Zt5/wAmJMVd5M/5Q/Qf+2bZ/wDJiPFW/Ni2DaHONTeRLblHzaEAvXmvGnLbrirz70PJH/LT&#xA;qH/AR/0xV3oeSP8Alp1D/gI/6Yq70PJH/LTqH/AR/wBMVd6Hkj/lp1D/AICP+mKu9DyR/wAtOof8&#xA;BH/TFXeh5I/5adQ/4CP+mKu9DyR/y06h/wABH/TFXeh5I/5adQ/4CP8ApirvQ8kf8tOof8BH/TFX&#xA;eh5I/wCWnUP+Aj/pirvQ8kf8tOof8BH/AExV3oeSP+WnUP8AgI/6Yq70PJH/AC06h/wEf9MVd6Hk&#xA;j/lp1D/gI/6YqyPR/N/ljRrCPT7drqSOIsQzxry+Ji37LDxxVOvNkyXHknWp468JdKunWvWjW8hH&#xA;68VX+TP+UP0H/tm2f/JiPFURr3146ZL+jreO7uKrwhmAZCOQrUMVGwxViXHzl/1YbH/kVH/1VxV3&#xA;Hzl/1YbH/kVH/wBVcVdx85f9WGx/5FR/9VcVdx85f9WGx/5FR/8AVXFVa1TzW91Ct1odkkDSKJWE&#xA;UdQhI5EfvT2xVl36L0z/AJY4P+RSf804q79F6Z/yxwf8ik/5pxV36L0z/ljg/wCRSf8ANOKu/Rem&#xA;f8scH/IpP+acVd+i9M/5Y4P+RSf804q79F6Z/wAscH/IpP8AmnFXfovTP+WOD/kUn/NOKu/Remf8&#xA;scH/ACKT/mnFXfovTP8Aljg/5FJ/zTirv0Xpn/LHB/yKT/mnFUv84qqeTtdVQFVdMuwANgAIJMVb&#xA;8mf8ofoP/bNs/wDkxHiqL1nVYtF0+TUJkaVIioKrQE8mC9/nirGf+Vmad/yxzfev9cVd/wArM07/&#xA;AJY5vvX+uKu/5WZp3/LHN96/1xV3/KzNO/5Y5vvX+uKu/wCVmad/yxzfev8AXFXf8rM07/ljm+9f&#xA;64q7/lZmnf8ALHN96/1xV3/KzNO/5Y5vvX+uKu/5WZp3/LHN96/1xVlthdrf2UF6ilFuI1kCnqAw&#xA;rQ4qiMVdirsVdirsVSXzn/yh+vf9s28/5MSYq7yZ/wAofoP/AGzbP/kxHiqY6hNYQWrSakY1tgRz&#xA;MoBSpO1a174qlH6V8lf78sf+AT/mnFXfpXyV/vyx/wCAT/mnFXfpXyV/vyx/4BP+acVd+lfJX+/L&#xA;H/gE/wCacVd+lfJX+/LH/gE/5pxV36V8lf78sf8AgE/5pxV36V8lf78sf+AT/mnFXfpXyV/vyx/4&#xA;BP8AmnFXfpXyV/vyx/4BP+acVRCeZvLcaCOO+gRFFFVTQADsABiq7/FPl3/q4Q/8Firv8U+Xf+rh&#xA;D/wWKu/xT5d/6uEP/BYq7/FPl3/q4Q/8Fiq+LzJoU8qQQ30LySsERQ25ZjQAfTiqh5z/AOUP17/t&#xA;m3n/ACYkxV3kz/lD9B/7Ztn/AMmI8VX+aGgXRZjcWbahHVK2ysyFvjX9qMFtuuKsD9bR/wDqU5v+&#xA;km4/5oxV3raP/wBSnN/0k3H/ADRirvW0f/qU5v8ApJuP+aMVd62j/wDUpzf9JNx/zRirvW0f/qU5&#xA;v+km4/5oxV3raP8A9SnN/wBJNx/zRirvW0f/AKlOb/pJuP8AmjFXeto//Upzf9JNx/zRirvW0f8A&#xA;6lOb/pJuP+aMVd62j/8AUpzf9JNx/wA0Yq71tH/6lOb/AKSbj/mjFXeto/8A1Kc3/STcf80Yq71t&#xA;H/6lOb/pJuP+aMVd62j/APUpzf8ASTcf80Yqyny95f0C7trbVxpbWNwknNI2mmYo0b/CfiZa/Zr0&#xA;xVMPOf8Ayh+vf9s28/5MSYq7yZ/yh+g/9s2z/wCTEeKovWbfUrrT5IdJmW2u2K8JWJAADAt0V+3t&#xA;irGf0H+YH/V3h/4Nv+yfFXfoP8wP+rvD/wAG3/ZPirv0H+YH/V3h/wCDb/snxV36D/MD/q7w/wDB&#xA;t/2T4q79B/mB/wBXeH/g2/7J8Vd+g/zA/wCrvD/wbf8AZPiqc+XrDzFZtOddvEu1cL6IQk8SOXKt&#xA;Y067YqnmKuxV2KuxV2KuxV2KuxVJfOf/ACh+vf8AbNvP+TEmKu8mf8ofoP8A2zbP/kxHiqL1m41K&#xA;10+SbSYVubtSvCJgSCCwDdGTt74qxn9OfmB/1aIf+Ab/ALKMVd+nPzA/6tEP/AN/2UYq79OfmB/1&#xA;aIf+Ab/soxV36c/MD/q0Q/8AAN/2UYq79OfmB/1aIf8AgG/7KMVd+nPzA/6tEP8AwDf9lGKu/Tn5&#xA;gf8AVoh/4Bv+yjFXfpz8wP8Aq0Q/8A3/AGUYq79OfmB/1aIf+Ab/ALKMVd+nPzA/6tEP/AN/2UYq&#xA;79OfmB/1aIf+Ab/soxV36c/MD/q0Q/8AAN/2UYq79OfmB/1aIf8AgG/7KMVd+nPzA/6tEP8AwDf9&#xA;lGKpz5ev/MV40412zS0VAvolARyJ5cq1kfptiq7zn/yh+vf9s28/5MSYq7yZ/wAofoP/AGzbP/kx&#xA;Hiq/zQsDaLMLi8bT46pW5VWcr8a/sxkNv0xVgfo6P/1Nk3/SNcf814q70dH/AOpsm/6Rrj/mvFXe&#xA;jo//AFNk3/SNcf8ANeKu9HR/+psm/wCka4/5rxV3o6P/ANTZN/0jXH/NeKu9HR/+psm/6Rrj/mvF&#xA;Xejo/wD1Nk3/AEjXH/NeKu9HR/8AqbJv+ka4/wCa8Vd6Oj/9TZN/0jXH/NeKu9HR/wDqbJv+ka4/&#xA;5rxV3o6P/wBTZN/0jXH/ADXirvR0f/qbJv8ApGuP+a8Vd6Oj/wDU2Tf9I1x/zXirvR0f/qbJv+ka&#xA;4/5rxVM/LthZ3OrQmz8xS3z259ZoGhmQMqkVq0klO+Ksm85/8ofr3/bNvP8AkxJirvJn/KH6D/2z&#xA;bP8A5MR4qq+ZCy6RMVsv0kap/ovFm5fEN6ICduuKsK9Wf/qTv+SM3/NGKu9Wf/qTv+SM3/NGKu9W&#xA;f/qTv+SM3/NGKu9Wf/qTv+SM3/NGKu9Wf/qTv+SM3/NGKu9Wf/qTv+SM3/NGKu9Wf/qTv+SM3/NG&#xA;Ku9Wf/qTv+SM3/NGKu9Wf/qTv+SM3/NGKu9Wf/qTv+SM3/NGKu9Wf/qTv+SM3/NGKu9Wf/qTv+SM&#xA;3/NGKu9Wf/qTv+SM3/NGKu9Wf/qTv+SM3/NGKonT9S1GxuVltPKrWzv8DSJFMCFYiv7HtirJ/Of/&#xA;ACh+vf8AbNvP+TEmKu8mf8ofoP8A2zbP/kxHiqr5kDNpEwW9/Rpqn+lcmXj8Q2qhB36Yqwr0p/8A&#xA;qcf+S03/ADXirvSn/wCpx/5LTf8ANeKu9Kf/AKnH/ktN/wA14q70p/8Aqcf+S03/ADXirvSn/wCp&#xA;x/5LTf8ANeKu9Kf/AKnH/ktN/wA14q70p/8Aqcf+S03/ADXirvSn/wCpx/5LTf8ANeKu9Kf/AKnH&#xA;/ktN/wA14q70p/8Aqcf+S03/ADXirvSn/wCpx/5LTf8ANeKu9Kf/AKnH/ktN/wA14q70p/8Aqcf+&#xA;S03/ADXirvSn/wCpx/5LTf8ANeKr4LO9uZkt4PNxklkIVEWWapJ7D48VZZ5wBXybrgJqRpl2CfH9&#xA;xJirfkz/AJQ/Qf8Atm2f/JiPFV/mhoF0WY3Fm2oR1StsrMhb41/ajBbbrirA/W0f/qU5v+km4/5o&#xA;xV3raP8A9SnN/wBJNx/zRirvW0f/AKlOb/pJuP8AmjFXeto//Upzf9JNx/zRirvW0f8A6lOb/pJu&#xA;P+aMVd62j/8AUpzf9JNx/wA0Yq71tH/6lOb/AKSbj/mjFXeto/8A1Kc3/STcf80Yq71tH/6lOb/p&#xA;JuP+aMVd62j/APUpzf8ASTcf80Yq71tH/wCpTm/6Sbj/AJoxV3raP/1Kc3/STcf80Yq71tH/AOpT&#xA;m/6Sbj/mjFXeto//AFKc3/STcf8ANGKpx5Wt9IvdUHHQZNOktkM8c7zzOOSsiheLhR+1XFWQ+c/+&#xA;UP17/tm3n/JiTFXeTP8AlD9B/wC2bZ/8mI8VRes2+pXWnyQ6TMttdsV4SsSAAGBbor9vbFWM/oP8&#xA;wP8Aq7w/8G3/AGT4qyXRLbU7WwWHV51uboMxaRCSCCfhG6p+rFUwxV2KuxV2KuxV2KuxV2KuxV2K&#xA;uxV2KuxVJfOf/KH69/2zbz/kxJirvJn/ACh+g/8AbNs/+TEeKovWbjUrXT5JtJhW5u1K8ImBIILA&#xA;N0ZO3virGf05+YH/AFaIf+Ab/soxV36c/MD/AKtEP/AN/wBlGKu/Tn5gf9WiH/gG/wCyjFXfpz8w&#xA;P+rRD/wDf9lGKu/Tn5gf9WiH/gG/7KMVd+nPzA/6tEP/AADf9lGKu/Tn5gf9WiH/AIBv+yjFXfpz&#xA;8wP+rRD/AMA3/ZRirv05+YH/AFaIf+Ab/soxV36c/MD/AKtEP/AN/wBlGKu/Tn5gf9WiH/gG/wCy&#xA;jFXfpz8wP+rRD/wDf9lGKu/Tn5gf9WiH/gG/7KMVd+nPzA/6tEP/AADf9lGKozSdW85XGoQw6nps&#xA;UFo5PqyqrAqOJI6zN39sVR/nP/lD9e/7Zt5/yYkxV3kz/lD9B/7Ztn/yYjxVf5oWBtFmFxeNp8dU&#xA;rcqrOV+Nf2YyG36YqwP0dH/6myb/AKRrj/mvFXejo/8A1Nk3/SNcf814q70dH/6myb/pGuP+a8Vd&#xA;6Oj/APU2Tf8ASNcf814q70dH/wCpsm/6Rrj/AJrxV3o6P/1Nk3/SNcf814q70dH/AOpsm/6Rrj/m&#xA;vFXejo//AFNk3/SNcf8ANeKu9HR/+psm/wCka4/5rxV3o6P/ANTZN/0jXH/NeKu9HR/+psm/6Rrj&#xA;/mvFXejo/wD1Nk3/AEjXH/NeKu9HR/8AqbJv+ka4/wCa8Vd6Oj/9TZN/0jXH/NeKu9HR/wDqbJv+&#xA;ka4/5rxVPZVt1/LnXhbX7amn1K+/fujxmv1dvh4yEnbFU88mf8ofoP8A2zbP/kxHiqr5kLLpExWy&#xA;/SRqn+i8Wbl8Q3ogJ264qwr1Z/8AqTv+SM3/ADRirvVn/wCpO/5Izf8ANGKu9Wf/AKk7/kjN/wA0&#xA;Yq71Z/8AqTv+SM3/ADRirvVn/wCpO/5Izf8ANGKu9Wf/AKk7/kjN/wA0Yq71Z/8AqTv+SM3/ADRi&#xA;rvVn/wCpO/5Izf8ANGKu9Wf/AKk7/kjN/wA0Yq71Z/8AqTv+SM3/ADRirvVn/wCpO/5Izf8ANGKu&#xA;9Wf/AKk7/kjN/wA0Yq71Z/8AqTv+SM3/ADRirvVn/wCpO/5Izf8ANGKu9Wf/AKk7/kjN/wA0YqyT&#xA;XrW3tPIOsrb262gk0u6keFQRxdrd+QocVRnkz/lD9B/7Ztn/AMmI8VVfMgZtImC3v6NNU/0rky8f&#xA;iG1UIO/TFWFelP8A9Tj/AMlpv+a8Vd6U/wD1OP8AyWm/5rxV3pT/APU4/wDJab/mvFXelP8A9Tj/&#xA;AMlpv+a8Vd6U/wD1OP8AyWm/5rxV3pT/APU4/wDJab/mvFXelP8A9Tj/AMlpv+a8Vd6U/wD1OP8A&#xA;yWm/5rxV3pT/APU4/wDJab/mvFXelP8A9Tj/AMlpv+a8Vd6U/wD1OP8AyWm/5rxV3pT/APU4/wDJ&#xA;ab/mvFXelP8A9Tj/AMlpv+a8Vd6U/wD1OP8AyWm/5rxVknlvR9Vtbhb+51d9StZYj6aM8jKeRUq4&#xA;5sR0GKozzn/yh+vf9s28/wCTEmKu8mf8ofoP/bNs/wDkxHiq7zVJbRaJO93aG/iDJytw7RlvjWnx&#xA;ICduuKsA+u6B/wBSxJ/0lz/80Yq767oH/UsSf9Jc/wDzRirvrugf9SxJ/wBJc/8AzRirvrugf9Sx&#xA;J/0lz/8ANGKu+u6B/wBSxJ/0lz/80Yq767oH/UsSf9Jc/wDzRirvrugf9SxJ/wBJc/8AzRirvrug&#xA;f9SxJ/0lz/8ANGKu+u6B/wBSxJ/0lz/80Yq767oH/UsSf9Jc/wDzRirLtM8p+WNQsIL1tNMBnQOY&#xA;zNMSte1ea/qxVFf4H8r/APLD/wAlZv8Aqrirv8D+V/8Alh/5Kzf9VcVd/gfyv/yw/wDJWb/qriqd&#xA;W1vDaW8drbrwhhUJGtSaKooBViTiqVec/wDlD9e/7Zt5/wAmJMVd5M/5Q/Qf+2bZ/wDJiPFUfqWo&#xA;2ulWj314SsMZAYqOR+IhRsPc4qkv+P8Ay5/v2X/kW2Ku/wAf+XP9+y/8i2xV3+P/AC5/v2X/AJFt&#xA;irv8f+XP9+y/8i2xV3+P/Ln+/Zf+RbYq7/H/AJc/37L/AMi2xV3+P/Ln+/Zf+RbYq7/H/lz/AH7L&#xA;/wAi2xV3+P8Ay5/v2X/kW2Ku/wAf+XP9+y/8i2xV3+P/AC5/v2X/AJFtirv8f+XP9+y/8i2xV3+P&#xA;/Ln+/Zf+RbYq7/H/AJc/37L/AMi2xVWs/Oug311FZ28khlnYIgMZAqffFVXzn/yh+vf9s28/5MSY&#xA;q7yZ/wAofoP/AGzbP/kxHiqv5hF0dKlFnaRX81U4286eojfEK1Uleg3xVh3HzH/1K2nf9Iq/9VcV&#xA;dx8x/wDUrad/0ir/ANVcVdx8x/8AUrad/wBIq/8AVXFXcfMf/Urad/0ir/1VxV3HzH/1K2nf9Iq/&#xA;9VcVdx8x/wDUrad/0ir/ANVcVdx8x/8AUrad/wBIq/8AVXFXcfMf/Urad/0ir/1VxV3HzH/1K2nf&#xA;9Iq/9VcVdx8x/wDUrad/0ir/ANVcVdx8x/8AUrad/wBIq/8AVXFXcfMf/Urad/0ir/1VxV3HzH/1&#xA;K2nf9Iq/9VcVdx8x/wDUrad/0ir/ANVcVXxP5ogkWaHyzYRyIaq6WwVlI7gibFU51m41K6/L/Wpt&#xA;WhW2u206+5xKCAAIpQvVn7e+Ko7yZ/yh+g/9s2z/AOTEeKr/ADQsDaLMLi8bT46pW5VWcr8a/sxk&#xA;Nv0xVgfo6P8A9TZN/wBI1x/zXirvR0f/AKmyb/pGuP8AmvFXejo//U2Tf9I1x/zXirvR0f8A6myb&#xA;/pGuP+a8Vd6Oj/8AU2Tf9I1x/wA14q70dH/6myb/AKRrj/mvFXejo/8A1Nk3/SNcf814q70dH/6m&#xA;yb/pGuP+a8Vd6Oj/APU2Tf8ASNcf814q70dH/wCpsm/6Rrj/AJrxV3o6P/1Nk3/SNcf814q70dH/&#xA;AOpsm/6Rrj/mvFXejo//AFNk3/SNcf8ANeKu9HR/+psm/wCka4/5rxVG6ZoEOsvJHpvmaadogGce&#xA;hMlAdh9uVcVZJ5jtmsvIWr2jyGdoNJuozKRQuVt5ByO7dfniqI8mf8ofoP8A2zbP/kxHiqaXdpbX&#xA;0DW13Gs0LULI24NDUYql/wDhby7/ANW+H/gcVd/hby7/ANW+H/gcVd/hby7/ANW+H/gcVd/hby7/&#xA;ANW+H/gcVd/hby7/ANW+H/gcVd/hby7/ANW+H/gcVd/hby7/ANW+H/gcVd/hby7/ANW+H/gcVd/h&#xA;by7/ANW+H/gcVd/hby7/ANW+H/gcVd/hby7/ANW+H/gcVd/hby7/ANW+H/gcVd/hby7/ANW+H/gc&#xA;Vd/hby7/ANW+H/gcVRVjpGmaazvYWyW7SABigpUDFUD5z/5Q/Xv+2bef8mJMVd5M/wCUP0H/ALZt&#xA;n/yYjxVOsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdiqS+c/+UP17/tm3n/JiTFX/9k=</xmpGImg:image>
+               </rdf:li>
+            </rdf:Seq>
+         </xmp:PageInfo>
+         <xmpMM:InstanceID>xmp.iid:9cf41c74-62e4-9d49-a310-9df2ed2b930b</xmpMM:InstanceID>
+         <xmpMM:DocumentID>xmp.did:50ffdc34-418f-e44f-b85a-e6da476eb45e</xmpMM:DocumentID>
+         <xmpMM:OriginalDocumentID>xmp.did:50ffdc34-418f-e44f-b85a-e6da476eb45e</xmpMM:OriginalDocumentID>
+         <xmpMM:History>
+            <rdf:Seq>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>created</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:50ffdc34-418f-e44f-b85a-e6da476eb45e</stEvt:instanceID>
+                  <stEvt:when>2018-01-27T17:03:30-06:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe InCopy CC 13.0 (Windows)</stEvt:softwareAgent>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:e9f6d05f-3f53-b848-8b1c-4366463fece6</stEvt:instanceID>
+                  <stEvt:when>2018-01-27T17:09:16-06:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe InCopy CC 13.0 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:0b49e924-43f5-7e46-9ca1-b73f9bb782c8</stEvt:instanceID>
+                  <stEvt:when>2018-01-27T17:09:16-06:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe InCopy CC 13.0 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/metadata</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:817d67dc-10b2-bb46-a6a1-53c95d12425d</stEvt:instanceID>
+                  <stEvt:when>2018-01-27T17:14:12-06:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe InCopy CC 13.0 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:9cf41c74-62e4-9d49-a310-9df2ed2b930b</stEvt:instanceID>
+                  <stEvt:when>2018-01-27T19:19:12-06:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe InCopy CC 13.0 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+            </rdf:Seq>
+         </xmpMM:History>
+         <dc:format>application/x-incopy</dc:format>
+         <dc:title>
+            <rdf:Alt>
+               <rdf:li xml:lang="x-default">2018-01-27-TIL-wireframes_mockups_prototypes</rdf:li>
+            </rdf:Alt>
+         </dc:title>
+         <xmpTPg:Colorants>
+            <rdf:Seq>
+               <rdf:li rdf:parseType="Resource">
+                  <xmpG:swatchName>Black</xmpG:swatchName>
+                  <xmpG:mode>CMYK</xmpG:mode>
+                  <xmpG:type>Process</xmpG:type>
+                  <xmpG:cyan>0</xmpG:cyan>
+                  <xmpG:magenta>0</xmpG:magenta>
+                  <xmpG:yellow>0</xmpG:yellow>
+                  <xmpG:black>100</xmpG:black>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <xmpG:swatchName>Paper</xmpG:swatchName>
+                  <xmpG:mode>CMYK</xmpG:mode>
+                  <xmpG:type>Process</xmpG:type>
+                  <xmpG:cyan>0</xmpG:cyan>
+                  <xmpG:magenta>0</xmpG:magenta>
+                  <xmpG:yellow>0</xmpG:yellow>
+                  <xmpG:black>0</xmpG:black>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <xmpG:swatchName>Registration</xmpG:swatchName>
+                  <xmpG:mode>CMYK</xmpG:mode>
+                  <xmpG:type>Process</xmpG:type>
+                  <xmpG:cyan>100</xmpG:cyan>
+                  <xmpG:magenta>100</xmpG:magenta>
+                  <xmpG:yellow>100</xmpG:yellow>
+                  <xmpG:black>100</xmpG:black>
+               </rdf:li>
+            </rdf:Seq>
+         </xmpTPg:Colorants>
+         <xmpTPg:Fonts>
+            <rdf:Bag>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>ArialMT</stFnt:fontName>
+                  <stFnt:fontFamily>Arial</stFnt:fontFamily>
+                  <stFnt:fontFace>Regular</stFnt:fontFace>
+                  <stFnt:fontType>OpenTypeTT</stFnt:fontType>
+                  <stFnt:versionString>ArialMTVersion 6.98</stFnt:versionString>
+                  <stFnt:composite>false</stFnt:composite>
+                  <stFnt:fontFileName>arial.ttf</stFnt:fontFileName>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>Arial-BoldMT</stFnt:fontName>
+                  <stFnt:fontFamily>Arial</stFnt:fontFamily>
+                  <stFnt:fontFace>Bold</stFnt:fontFace>
+                  <stFnt:fontType>OpenTypeTT</stFnt:fontType>
+                  <stFnt:versionString>Arial-BoldMTVersion 6.98</stFnt:versionString>
+                  <stFnt:composite>false</stFnt:composite>
+                  <stFnt:fontFileName>arialbd.ttf</stFnt:fontFileName>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>ArialNarrow-Bold</stFnt:fontName>
+                  <stFnt:fontFamily>Arial</stFnt:fontFamily>
+                  <stFnt:fontFace>Narrow Bold</stFnt:fontFace>
+                  <stFnt:fontType>OpenTypeTT</stFnt:fontType>
+                  <stFnt:versionString>ArialNarrow-BoldVersion 2.40</stFnt:versionString>
+                  <stFnt:composite>false</stFnt:composite>
+                  <stFnt:fontFileName>ARIALNB.TTF</stFnt:fontFileName>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>Arial-ItalicMT</stFnt:fontName>
+                  <stFnt:fontFamily>Arial</stFnt:fontFamily>
+                  <stFnt:fontFace>Italic</stFnt:fontFace>
+                  <stFnt:fontType>OpenTypeTT</stFnt:fontType>
+                  <stFnt:versionString>Arial-ItalicMTVersion 6.98</stFnt:versionString>
+                  <stFnt:composite>false</stFnt:composite>
+                  <stFnt:fontFileName>ariali.ttf</stFnt:fontFileName>
+               </rdf:li>
+            </rdf:Bag>
+         </xmpTPg:Fonts>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>
+<?xpacket end="r"?>]]></Contents>
+			</Properties>
+		</MetadataPacketPreference>
+		<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
+		<StandaloneDocumentPreference PageHeight="667" PageWidth="375" TextAreaWidth="325" TextAreaDepth="600" TextAreaDepthUnit="DepthWords" FrameType="TextFrameType" StoryOrientation="Horizontal" CharacterAki="0" LineAki="6.909448818897637" HorizontalScale="100" VerticalScale="100" TextAreaCharPerLine="52" FacingPages="true" />
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="10">
+				<Properties>
+					<AppliedFont type="string">Arial</AppliedFont>
+				</Properties>
+				<Content>Category: User Experience Design, TIL</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Bold" PointSize="16">
+				<Properties>
+					<Leading type="unit">20</Leading>
+					<AppliedFont type="string">Arial</AppliedFont>
+				</Properties>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" SpaceBefore="5" SpaceAfter="5">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Bold" PointSize="16">
+				<Properties>
+					<AppliedFont type="string">Arial</AppliedFont>
+				</Properties>
+				<Content>TIL: Wireframe vs Mockup vs Prototype</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="16">
+				<Properties>
+					<AppliedFont type="string">Arial</AppliedFont>
+				</Properties>
+				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Narrow Bold" PointSize="14">
+				<Properties>
+					<AppliedFont type="string">Arial</AppliedFont>
+				</Properties>
+				<Content>A simple explanation for developers about the differences between wireframing, mockups and prototypes, and how I include them my personal design process </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Properties>
+					<AppliedFont type="string">Arial</AppliedFont>
+				</Properties>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" Composer="HL Composer Optyca" SpaceBefore="5" SpaceAfter="5">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Properties>
+					<AppliedFont type="string">Arial</AppliedFont>
+				</Properties>
+				<Content>In an effort to see how other people might wireframe, I came across a good comparison of the differences between wireframes, mockups and prototypes. As a teacher, I’m always on the lookout for good comparisons and analogies that I can use in the classroom setting. The following are replies to a comment on a YouTube video called ‘Wireframing for UX: What it is and how to get better at it’, and my further explanation of them. </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Italic">
+				<Properties>
+					<AppliedFont type="string">Arial</AppliedFont>
+				</Properties>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Basic Header 2">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Wireframes: A Design Schematic or Blueprint</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Basic Block Quote">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>“Wireframes refer to low detail or low res sketches of the general design that contain some details of the overall idea...” - Polygon Motions</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Basic Paragraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Much like HTML, wireframes are more the “skeletal framework” of a page, app or user interface. They show what will go where and what their purpose will be, usually annotated in the side margins or using comments in software such as Adobe Illustrator or Sketch.</Content>
+				<Br />
+				<Content>Given enough time, I might even show what the general flow of the website or app would be - this button always goes to this page, this form leads to this page or this email, etc.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Basic Header 2">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Mockups: Low to High-Definition, Non-Interactive Designs</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Basic Block Quote">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>“...Mockups refer to a complete design of a user interface/user experience that might go into a final project.” - Polygon Motions</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Basic Paragraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Much like CSS, mockups can be seen as the beauty layer of wireframing. What is it really going to look like in the end? What are the differences between each general page style? How many templates are the developers really going to make?</Content>
+				<Br />
+				<Content>You don’t mock up the entire site. You mock the major parts - general pages vs product pages vs form-based pages, etc.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Basic Header 2">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Prototypes: High-Definition, Interactive Design</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Basic Paragraph" LeftIndent="9" RightIndent="10">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Italic">
+				<Content>“Prototypes have more to do with the functionality of an application/software” - Mrinmary Mukherjee</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Basic Paragraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Much like JS, prototypes are test the underlying interactions and the usability of a design. This wouldn’t be a fully functioning website but it would be just functional enough that it could pass as the real deal and provide the user with a real-feel experience. This is where buttons “press” and links “jump” to their page.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Basic Header 2">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>My Preferred Process as a Designer</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Basic Paragraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Everything really depends on the length I have to complete the project. My preferences are to sit down and do some exploration with the client. </Content>
+				<Br />
+				<Content>What do they have available as far as user data? Do they have a persona (I’ll probably never again work on a project that doesn’t have one)? Do they have an established style guide? Also, how much  money have they budgeted toward the design process? All of these questions will tell me exactly what I will have to start with. If any of those  answers are missing, I start with finding more information to fill in those gaps. </Content>
+				<Br />
+				<Content>Then we do a mockup to get the big picture down. I like using mockups to nail down the consistencies across an app or website. Users like consistency because it leads to efficiency which translates into less time taken to do something. Mockups to me are low-definition, quick to whip up (once agreements are made) and show me where the main content, imagery and interactions are going to go.</Content>
+				<Br />
+				<Content>Next, we mock it up - this is where I use the styleguide and apply it to the wireframe. I have a habit of creating templates for websites, so I try to mockup one page for each template. For example, if it’s a small online store there might be two to three basic page templates (i.g. about page), then there would be a shopping cart tempatae, and a product details template. Three templates to mock up with fine-tuned details so if we have to create another template there would be no need to mock it up.</Content>
+				<Br />
+				<Content>Finally, given the appropriate amount of time, I prefer creating a working prototype the end-user would test. This would allow them to give some effective feedback on the app or website, allowing us to adjust and then move on to development. This might also be the place to A/B test the design (but that’s for another post).</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Basic Header 2">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Header 2">
+				<Content>About Laura</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Basic Paragraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Laura is a jill-of-all-trades that thoroughly enjoys design as much as she does development and teaching. She is a customer-focused designer/developer with experience creating and maintaining sites for national franchises as well as small businesses. Get in touch with her today!</Content>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+	</Story>
+	<ColorGroup Self="ColorGroup/[Root Color Group]" Name="[Root Color Group]" IsRootColorGroup="true">
+		<ColorGroupSwatch Self="u18ColorGroupSwatch3" SwatchItemRef="Color/Black" />
+		<ColorGroupSwatch Self="u18ColorGroupSwatch6" SwatchItemRef="Color/C=0 M=0 Y=100 K=0" />
+		<ColorGroupSwatch Self="u18ColorGroupSwatch5" SwatchItemRef="Color/C=0 M=100 Y=0 K=0" />
+		<ColorGroupSwatch Self="u18ColorGroupSwatch4" SwatchItemRef="Color/C=100 M=0 Y=0 K=0" />
+		<ColorGroupSwatch Self="u18ColorGroupSwatch9" SwatchItemRef="Color/C=100 M=90 Y=10 K=0" />
+		<ColorGroupSwatch Self="u18ColorGroupSwatch7" SwatchItemRef="Color/C=15 M=100 Y=100 K=0" />
+		<ColorGroupSwatch Self="u18ColorGroupSwatch8" SwatchItemRef="Color/C=75 M=5 Y=100 K=0" />
+		<ColorGroupSwatch Self="u18ColorGroupSwatch0" SwatchItemRef="Swatch/None" />
+		<ColorGroupSwatch Self="u18ColorGroupSwatch2" SwatchItemRef="Color/Paper" />
+		<ColorGroupSwatch Self="u18ColorGroupSwatch1" SwatchItemRef="Color/Registration" />
+	</ColorGroup>
+</Document>
