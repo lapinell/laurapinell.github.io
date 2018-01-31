@@ -1,0 +1,53 @@
+[
+    {
+        "type" : "language",
+        "name" : "HTML",
+        "proficiency" : "proficient"
+    },
+    { 
+        "type" : "language",
+        "name" : "CSS",
+        "proficiency" : "proficient"   
+    },
+    {
+        "type" : "language",
+        "name" : "PHP",
+        "proficiency" : "learning"
+    },
+    {
+        "type" : "framework",
+        "name" : "SASS",
+        "proficiency" : "learning"
+    },
+    {
+        "type" : "framework",
+        "name" : "JQuery",
+        "proficiency" : "learning"
+    },
+    {
+        "type" :"language",
+        "name":"JavaScript",
+        "proficiency":"learning"
+    },
+    {
+        "type": "language",
+        "name":"ECMAScript 6",
+        "proficiency":"learning"
+    },
+    {
+        "type":"software",
+        "name":"Adobe Photoshop",
+        "proficiency":"proficient"
+    },
+    {
+        "type":"software",
+        "name":"Adobe Illustrator",
+        "proficiency": "proficient"
+    },
+    {
+        "type":"software",
+        "name":"Adobe XD",
+        "proficiency":"learning"
+    }
+
+]
