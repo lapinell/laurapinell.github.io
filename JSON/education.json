@@ -1,0 +1,16 @@
+[
+    {
+        "school":"University of Tennessee - Knoxville",
+        "degreePath":"Agricultural Science",
+        "concentration":"Education & Extension",
+        "degree":"Bachelor of Science",
+        "yearGrad":"2011",
+    },
+    {
+        "school":"Nashville Software School",
+        "degreePath":"Front end design and development",
+        "concentration":"User experience and iterface design",
+        "degree":"Certificate",
+        "yearGrad":"2018"
+    }
+]

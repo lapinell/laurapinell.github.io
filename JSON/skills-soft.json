@@ -1,0 +1,42 @@
+[
+    {
+        "type":"communication",
+        "skillName":"teaching",
+        "proficiency":"advanced",
+    },
+    {
+        "type":"lexicon",
+        "skillName":"Spanish",
+        "proficiency":"developing",
+    },
+    {
+        "type":"communication",
+        "skillName":"web content creation",
+        "proficiency":"proficient"
+    },
+    {
+        "type":"lexicon",
+        "skillName":"French",
+        "proficiency":"beginning"
+    },
+    {
+        "type":"communication",
+        "skillName":"customer service",
+        "proficiency":"proficient"
+    },
+    {
+        "type":"creative",
+        "skillName":"drawing",
+        "proficiency":"proficient"
+    },
+    {
+        "type":"creative",
+        "skillName":"watercolor painting",
+        "proficiency":"developing"
+    },
+    {
+        "type":"analytical",
+        "skillName":"problem solving",
+        "proficiency":"proficient"
+    }
+]

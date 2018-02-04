@@ -12,27 +12,27 @@
     {
         "type" : "language",
         "name" : "PHP",
-        "proficiency" : "learning"
+        "proficiency" : "developing"
     },
     {
         "type" : "framework",
         "name" : "SASS",
-        "proficiency" : "learning"
+        "proficiency" : "beginning"
     },
     {
         "type" : "framework",
         "name" : "JQuery",
-        "proficiency" : "learning"
+        "proficiency" : "beginning"
     },
     {
         "type" :"language",
         "name":"JavaScript",
-        "proficiency":"learning"
+        "proficiency":"developing"
     },
     {
         "type": "language",
         "name":"ECMAScript 6",
-        "proficiency":"learning"
+        "proficiency":"beginning"
     },
     {
         "type":"software",
@@ -47,7 +47,7 @@
     {
         "type":"software",
         "name":"Adobe XD",
-        "proficiency":"learning"
+        "proficiency":"beginning"
     }
 
 ]
