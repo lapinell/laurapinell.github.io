@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>Page Title</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" type="text/css" media="screen" href="main.css" />
+    <!-- <link rel="stylesheet" type="text/css" media="screen" href="main.css" /> -->
     
 </head>
 <body>
@@ -24,10 +24,13 @@
                 <label for="content">Post content:</label>
                 <input type="textarea" id="postContent" name="postContent">
             </fieldset>
+            <input type="button" id="previewPost" value="Preview">
         </form>
     </section>
     <secton id="postPreview">
-
+        <h1 id="blogTitle"> </h1>
+        <p id="blogDate"> </p>
+        <p id="blogContent"> </p>
     </secton>
     <script src="../js/postBlog.js"></script>
 </body>
